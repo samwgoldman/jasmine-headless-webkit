@@ -1,0 +1,9 @@
+spec_files:
+  - spec/jasmine/body_modification/body_modification_spec.js
+
+src_dir: .
+spec_dir: .
+
+helpers:
+  - spec/javascripts/support/jquery-1.6.2.min.js
+
